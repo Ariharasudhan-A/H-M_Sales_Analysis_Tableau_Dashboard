@@ -30,7 +30,7 @@ The dashboard consists of several key visualizations:
 
 ## 📂 Dataset Used
 The dataset contains:
-- **Transactional records** (`t_dat`, `article_id`, `customer_id`, `price`)**  
+- **Transactional records** (`t_dat`, `article_id`, `customer_id`, `price`)  
 - **Article details** (`article_id`,`product_type_name`,`colour_group_name`,`garment_group_name`, etc.)  
 - **Customer demographics** (`customer_id`, `customer_age`, etc.)
 
