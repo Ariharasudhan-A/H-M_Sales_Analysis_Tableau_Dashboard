@@ -35,7 +35,7 @@ The dataset contains:
 - **Transactional records** (`t_dat`, `article_id`, `customer_id`, `price`)  
 - **Article details** (`article_id`,`product_type_name`,`colour_group_name`,`garment_group_name`, etc.)  
 - **Customer demographics** (`customer_id`, `customer_age`, etc.)
-- **Dataset link** [H&M Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv)
+- **[H&M Dataset link]**(https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv)
 
 ## 📷 Dashboard Preview
 
