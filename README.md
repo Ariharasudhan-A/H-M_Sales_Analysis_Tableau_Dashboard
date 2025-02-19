@@ -1,7 +1,7 @@
 # H&M Sales Analysis - Tableau Dashboard
 
 ## 📊 Overview
-This Tableau dashboard provides insights into **H&M sales data**, focusing on various dimensions such as monthly sales trends, product types, customer demographics, and pricing patterns. The dashboard helps in understanding:
+This Tableau dashboard provides insights into **H&M sales data** from 2018-2020, focusing on various dimensions such as monthly sales trends, product types, customer demographics, and pricing patterns. The dashboard helps in understanding:
 - Sales trends over time 📈
 - Customer purchasing behavior 🛍️
 - Product performance across different categories 🏷️
@@ -39,4 +39,4 @@ The dataset contains:
 [![H&M Sales Dashboard](https://public.tableau.com/static/images/HM/HM2018-20SalesReport/Dashboard1/1.png)](https://public.tableau.com/views/HM2018-20SalesReport/Dashboard1)
 
 ## 📌 Conclusion
-This dashboard provides **actionable insights** into H&M’s sales patterns, helping in decision-making for marketing strategies, product placements, and pricing optimizations.
+This dashboard provides **actionable insights** into H&M’s sales patterns during the period 2018-2020, helping in decision-making for marketing strategies, product placements, and pricing optimizations.
