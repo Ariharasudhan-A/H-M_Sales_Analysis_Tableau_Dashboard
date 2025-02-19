@@ -38,7 +38,7 @@ The dataset contains:
 
 ## 📷 Dashboard Preview
 
-[![H&M Sales Dashboard](https://public.tableau.com/static/images/HM/HM2018-20SalesReport/Dashboard1/1.png)](https://public.tableau.com/views/HM2018-20SalesReport/Dashboard1)
+[![H&M Sales Dashboard](https://github.com/user-attachments/assets/832011b7-9f0f-464d-931e-d72a67e17a7c)](https://public.tableau.com/views/HM2018-20SalesReport/Dashboard1)
 
 ## 📌 Conclusion
 This dashboard provides **actionable insights** into H&M’s sales patterns during the period 2018-2020, helping in decision-making for marketing strategies, product placements, and pricing optimizations.
