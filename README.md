@@ -35,11 +35,12 @@ The dataset contains:
 - **Transactional records** (`t_dat`, `article_id`, `customer_id`, `price`)  
 - **Article details** (`article_id`,`product_type_name`,`colour_group_name`,`garment_group_name`, etc.)  
 - **Customer demographics** (`customer_id`, `customer_age`, etc.)
-- **Dataset link** [!H&M Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv)]
+- **Dataset link** [![H&M Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv)]
 
 ## 📷 Dashboard Preview
 
 [![H&M Sales Dashboard](https://github.com/user-attachments/assets/832011b7-9f0f-464d-931e-d72a67e17a7c)](https://public.tableau.com/views/HM2018-20SalesReport/Dashboard1)
+🔗 **Click the image to view the full interactive dashboard on Tableau Public.**
 
 ## 📌 Conclusion
 This dashboard provides **actionable insights** into H&M’s sales patterns during the period 2018-2020, helping in decision-making for marketing strategies, product placements, and pricing optimizations.
