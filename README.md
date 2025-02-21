@@ -13,22 +13,22 @@ This Tableau dashboard provides insights into **H&M sales data** from 2018-2020,
 The dashboard consists of several key visualizations:
 
 1️⃣ **Month-wise Sales Trends** 
-   - Analyzes total sales per month to identify seasonal trends.  
+   - Sales fluctuate across months, with peaks in June, August, and November. While June sees the highest transaction count.   
 
 2️⃣ **Month-wise Average Price Analysis**   
-   - Compares the average price of articles sold each month.  
+   - August records the highest average price ($33.74). Lower prices tend to correlate with lower sales volumes.
 
 3️⃣ **Product Type-wise Sales Distribution** 
-   - Highlights which product types generate the most sales.  
+   - Jersey Fancy, Jersey Basic, and Dresses/Skirts are the most popular product categories, whereas shoes, skirts, and outdoor wear see lower sales. This suggests that casual and everyday wear drive the bulk of H&M’s revenue.
 
 4️⃣ **Customer Age-wise Sales Trends** 
-   - Examines purchasing behavior across different age groups.  
+   - The 25-30 age group accounts for the highest transactions, followed by 20-25 and 30-35. Sales gradually decline for older age groups, indicating that H&M’s primary customers are young adults.
 
 5️⃣ **Appearance-wise Sales Analysis** 
-   - Analyzes sales by `article_graphical_appearance_name`, `article_colour_group_name`, etc.  
+   - Black, white, and beige are the dominant colors in sales, reflecting customer preference for neutral and versatile shades. Less common colors like orange, pink, and lilac-purple have lower sales volumes.
 
 6️⃣ **Price-wise Sales Distribution**   
-   - Shows how different price ranges contribute to total sales.  
+   - The majority of sales occur in the $0 - $60 price range, with the highest transactions at $20 and $40 price points. Higher-priced products have significantly fewer transactions, indicating price sensitivity among customers. 
 
 ## 📂 Dataset Used
 The dataset contains:
