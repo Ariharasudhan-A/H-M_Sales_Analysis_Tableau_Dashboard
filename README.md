@@ -9,8 +9,14 @@ This Tableau dashboard provides insights into **H&M sales data** from 2018-2020,
 - Product performance across different categories 🏷️
 - Pricing impact on sales 💰
 
-## 🔍 Key Features
-The dashboard consists of several key visualizations:
+## 📂 Dataset Used
+The dataset contains:
+- **Transactional records** (`t_dat`, `article_id`, `customer_id`, `price`)  
+- **Article details** (`article_id`,`product_type_name`,`colour_group_name`,`garment_group_name`, etc.)  
+- **Customer demographics** (`customer_id`, `customer_age`, etc.)
+- **[H&M Dataset link](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv)**
+
+## 🔍 Report
 
 1️⃣ **Month-wise Sales Trends** 
    - Sales fluctuate across months, with peaks in June, August, and November. While June sees the highest transaction count.   
@@ -29,13 +35,6 @@ The dashboard consists of several key visualizations:
 
 6️⃣ **Price-wise Sales Distribution**   
    - The majority of sales occur in the $0 - $60 price range, with the highest transactions at $20 and $40 price points. Higher-priced products have significantly fewer transactions, indicating price sensitivity among customers. 
-
-## 📂 Dataset Used
-The dataset contains:
-- **Transactional records** (`t_dat`, `article_id`, `customer_id`, `price`)  
-- **Article details** (`article_id`,`product_type_name`,`colour_group_name`,`garment_group_name`, etc.)  
-- **Customer demographics** (`customer_id`, `customer_age`, etc.)
-- **[H&M Dataset link](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv)**
 
 ## 📷 Dashboard Preview
 
