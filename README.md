@@ -43,3 +43,12 @@ The dataset contains:
 
 ## 📌 Conclusion
 This dashboard provides **actionable insights** into H&M’s sales patterns during the period 2018-2020, helping in decision-making for marketing strategies, product placements, and pricing optimizations.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any queries or contributions, feel free to reach out to:
+- **Ariharasudhan A** - [Email](mailto:ariadaikalam1234@gmail.com)
